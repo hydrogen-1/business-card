@@ -16,6 +16,7 @@ body {
 }
 
 .content {
+  margin-top: 2rem;
   background-color: #1a1b21;
   width: 25%;
   display: flex;
@@ -94,6 +95,7 @@ header>h2 {
   width: 25%;
   max-width: 800px;
   justify-content: center;
+  margin-bottom: 2rem;
 }
 
 #interests {
