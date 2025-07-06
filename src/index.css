@@ -29,7 +29,6 @@ header {
   justify-items: center;
   flex-direction: column;
   justify-self: center;
-  margin-top: 2rem;
   text-align: center;
   min-width: 400px;
   margin-bottom: 2rem;
@@ -60,8 +59,8 @@ Header>img {
 }
 
 header>h1 {
-  font-size: 1.5rem;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 700;
 }
 
 header>h2 {
@@ -71,7 +70,19 @@ header>h2 {
 }
 
 #about {
-  padding: 1rem;
+  padding: 0 2rem;
+}
+
+#about>h1 {
+  font-size: 1.5rem;
+}
+
+#interests {
+  padding: 0 2rem;
+}
+
+#interests>h1 {
+  font-size: 1.5rem;
 }
 
 @media screen and (width <=500px) {
