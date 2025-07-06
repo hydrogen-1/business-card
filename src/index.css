@@ -43,10 +43,10 @@ Header>img {
 }
 
 #mail-button {
-  width: 90%;
-  height: 2rem;
+  width: 75%;
+  height: 3rem;
   font-size: 1.5rem;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .logo {
